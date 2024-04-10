@@ -11,13 +11,13 @@ Keďže hra má pomáhať deťom v učení bude obsahovať hlavne základné (ľ
 
 ## Inšpirácia
 ### Podobné aplikácie
- -Wordling: Daily Worldle: 
+ - Wordling: Daily Worldle: 
   https://play.google.com/store/apps/details?id=io.digitalsnacks.wordchallenge&hl=en_US
   
- -PixWords: 
+ - PixWords: 
  https://play.google.com/store/apps/details?id=com.dekovir.pixwords&hl=sk&gl=US
 
- -Words in a Pic:
+ - Words in a Pic:
  https://play.google.com/store/apps/details?id=com.qiiwi.wordsinapic&hl=en_US
 
 ## Mocqups
